@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(168, 167, 167);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+body img {
+    width: 500px;
+}
+
+body p {
+    text-align: center;
+    font-size: 20px;
+}
